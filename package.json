@@ -1,0 +1,20 @@
+{
+  "name": "js-web-console",
+  "version": "0.0.1",
+  "description": "console for the web",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wei3hua2/js-web-console.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "James Chong",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c22a7b6032b8b02a234fb8d2d97f9f9e985c4c6a"
+}
